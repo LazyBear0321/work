@@ -1,0 +1,322 @@
+
+@font-face{
+    font-family:'Noto Sans TC', sans-serif;
+    src : url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+}
+
+body{
+    font-family:'NotoSansTC-Medium', sans-serif;
+    font-size: 16px;
+    background: url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap') repeat;
+}
+
+
+
+#___01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1366px;
+	height:2000px;
+}
+
+#cutversionsoureback3-01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:1366px;
+    height:49px;
+    background-color: #FFFF;
+}
+
+#cutversionsoureback3-02 {
+	position:absolute;
+	left:0px;
+	top:49px;
+	width:1366px;
+    height:188px;
+    background-color: #FFFF;
+}
+
+#cutversionsoureback3-03 {
+	position:absolute;
+	left:0px;
+	top:237px;
+	width:128px;
+    height:1763px;
+    background-color: #FFFF;
+}
+
+#cutversionsoureback3-04 {
+	position:absolute;
+	left:128px;
+	top:237px;
+	width:1110px;
+    height:126px;
+	background-color: #090641;
+	font-size: 18px;
+}
+
+#cutversionsoureback3-05 {
+	position:absolute;
+	left:1238px;
+	top:237px;
+	width:128px;
+    height:1763px;
+    background-color: #FFFF;
+}
+
+#cutversionsoureback3-06 {
+	position:absolute;
+	left:128px;
+	top:363px;
+	width:95px;
+    height:1029px;
+    background-color: #090641;
+}
+
+#cutversionsoureback3-07 {
+	position:absolute;
+	left:223px;
+	top:363px;
+	width:1px;
+    height:315px;
+    background-color: #FFFF;
+}
+
+#cutversionsoureback3-08 {
+	position:absolute;
+	left:224px;
+	top:363px;
+	width:670px;
+    height:315px;
+	background-color: #FFFF;
+	
+}
+
+#cutversionsoureback3-09 {
+	position:absolute;
+	left:888px;
+	top:363px;
+	width:255px;
+    height:315px;
+	background-color: #FFFF;
+	
+}
+
+#cutversionsoureback3-10 {
+	position:absolute;
+	left:1143px;
+	top:363px;
+	width:95px;
+    height:1029px;
+    background-color: #090641;
+}
+
+#cutversionsoureback3-11 {
+	position:absolute;
+	left:223px;
+	top:678px;
+	width:920px;
+    height:224px;
+    background-color: #090641;
+}
+
+#cutversionsoureback3-12 {
+	position:absolute;
+	left:223px;
+	top:902px;
+	width:920px;
+    height:164px;
+    background-color: #090641;
+}
+
+#cutversionsoureback3-13 {
+	position:absolute;
+	left:223px;
+	top:1066px;
+	width:635px;
+    height:51px;
+    background-color: #090641;
+}
+
+#cutversionsoureback3-14 {
+	position:absolute;
+	left:858px;
+	top:1066px;
+	width:285px;
+    height:326px;
+    background-color: #090641;
+}
+
+#cutversionsoureback3-15 {
+	position:absolute;
+	left:223px;
+	top:1117px;
+	width:635px;
+    height:275px;
+    background-color: #090641;
+}
+
+#cutversionsoureback3-16 {
+	position:absolute;
+	left:128px;
+	top:1392px;
+	width:1110px;
+    height:49px;
+    background-color: #090641;
+}
+
+#cutversionsoureback4-19 {
+	position:absolute;
+	left:223px;
+	top:1437px;
+	width:920px;
+	height:356px;
+	background-color: #090641;
+	
+}
+
+#cutversionsoureback3-18 {
+	position:absolute;
+	left:128px;
+	top:1780px;
+	width:1110px;
+    height:37px;
+    background-color: #090641;
+}
+
+#cutversionsoureback3-19 {
+	position:absolute;
+	left:128px;
+	top:1829px;
+	width:1110px;
+    height:171px;
+    background-color: #271702;
+}
+
+#cutversionsoureback4-20 {
+	position:absolute;
+	left:1143px;
+	top:1437px;
+	width:96px;
+	height:345px;
+	background-color: #090641;
+}
+
+#cutversionsoureback4-22 {
+	position:absolute;
+	left:129px;
+	top:1439px;
+	width:94px;
+	height:345px;
+	background-color: #090641;
+}
+
+
+#cutversionsoureback6-28 {
+	position:absolute;
+	left:236px;
+	top:1453px;
+	width:147px;
+	height:322px;
+	background-color: #090641;
+}
+
+#cutversionsoureback6-30 {
+	position:absolute;
+	left:413px;
+	top:1453px;
+	width:164px;
+	height:322px;
+	background-color: #090641;
+}
+
+#cutversionsoureback6-32 {
+	position:absolute;
+	left:603px;
+	top:1453px;
+	width:149px;
+	height:322px;
+	background-color: #090641;
+}
+
+#cutversionsoureback6-34 {
+	position:absolute;
+	left:781px;
+	top:1453px;
+	width:163px;
+	height:322px;
+	background-color: #090641;
+}
+#cutversionsoureback6-37 {
+	position:absolute;
+	left:966px;
+	top:1453px;
+	width:164px;
+	height:322px;
+	background-color: #090641;
+}
+
+#cutversionsoureback7-48 {
+	position:absolute;
+	left:129px;
+	top:1829px;
+	width:1110px;
+	height:54px;
+	background-color: #271702;
+}
+
+#cutversionsoureback7-49 {
+	position:absolute;
+	left:129px;
+	top:1883px;
+	width:1110px;
+	height:53px;
+	background-color: #271702;
+	font-size: 14px;
+}
+
+#cutversionsoureback7-50 {
+	position:absolute;
+	left:128px;
+	top:1936px;
+	width:1111px;
+	height:63px;
+	background-color: #271702;
+}
+
+#cutversionsoureback6-07_ {
+	position:absolute;
+	left:1048px;
+	top:361px;
+	width:97px;
+	height:318px;
+	background-color: #FFFF;
+}
+
+#cutversionsoureback6-12_ {
+	position:absolute;
+	left:888px;
+	top:363px;
+	width:160px;
+	height:315px;
+	background-color: #FFFF;
+}
+
+#cutversionsoureback8-09 {
+	position:absolute;
+	left:888px;
+	top:363px;
+	width:160px;
+	height:315px;
+	background-color: #FFFF;
+}
+
+#cutversionsoureback8-10 {
+	position:absolute;
+	left:1048px;
+	top:363px;
+	width:95px;
+	height:315px;
+}
